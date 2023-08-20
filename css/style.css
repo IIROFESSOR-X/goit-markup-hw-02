@@ -1,0 +1,62 @@
+body {
+  font-family: 'Helvetica Neue', 'Roboto', 'Verdana', sans-serif;
+	color: #2a2a2a;
+  padding: 15;
+}
+
+a {
+  text-decoration: none;
+}
+.logo {
+  color: var(--navyblue, #2E2F42);
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 116.667%;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+text-decoration: none;
+}
+a > span {
+  color: var(--iris, #4D5AE5);
+}
+.header {
+    
+ 
+}
+.nav {
+  color: var(--navyblue, #2E2F42);
+/* Body Medium */
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height:  150%;
+letter-spacing: 0.32px;
+
+display:inline-block;
+}
+.studio {
+  display:inline-block;
+}
+.potfolio {
+  display:inline-block;
+}
+.contacts {
+  display:inline-block;
+}
+.section-first {
+  background: var(--navyblue, #2E2F42);
+}
+.button {
+  cursor: pointer;
+  
+}
+.contacts {
+  color: var(--slate, #434455);
+/* Body */
+font-size: 16px;
+font-style: normal;
+line-height: 150%;
+letter-spacing: 0.32px;
+}
+
