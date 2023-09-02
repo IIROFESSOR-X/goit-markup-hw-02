@@ -35,6 +35,7 @@ body {
   line-height: 1.17em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #2e2f42;
 }
 .link-nav {
   font-weight: 500;
@@ -99,7 +100,12 @@ body {
   background-color: #404bbf;
 }
 
-.features-item {
+.features-list-item {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 
 .features-title {
@@ -108,6 +114,10 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.2;
   color: #2e2f42;
+}
+.features-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .strategy-text {
   line-height: 1.5;
