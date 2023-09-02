@@ -37,6 +37,16 @@ body {
   text-transform: uppercase;
   color: #2e2f42;
 }
+.footer-logo {
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17em;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
 .link-nav {
   font-weight: 500;
   line-height: 1.5;
