@@ -82,15 +82,15 @@ text-transform: uppercase;
   background-color: #2e2f42;
 }
 .hero-title {
-  color: #ffffff;
-  font-size: 56px;
-  letter-spacing: 0.02em;
+color: #ffffff;
+font-size: 56px;
+letter-spacing: 0.02em;
 line-height:  1.07;
 text-align: center;
 }
 
 .hero-button {
-background-color: #4D5AE5
+background-color: #4D5AE5;
 color: #ffffff;
 cursor: pointer;
 font-size: 16px;
