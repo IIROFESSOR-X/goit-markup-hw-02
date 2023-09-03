@@ -1,7 +1,14 @@
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
 }
 
 .logo {
@@ -14,6 +21,11 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+  
+}
+.logo-studio {
+  color: #2e2f42;
+  margin-left: -5px;
 }
 
 .nav {
@@ -27,25 +39,9 @@ body {
 }
 
 
-.logo-web {
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.17em;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
-}
 .footer-logo {
   color: #f4f4fd;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.17em;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  margin-left: -5px;
 }
 .link-nav {
   font-weight: 500;
